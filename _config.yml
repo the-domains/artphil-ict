@@ -1,4 +1,3 @@
-layout_spectrum: 0.060378992930054665
 typography_spectrum: 0.5151027585379779
 color:
   brandStrength: 0.10630413913168013
@@ -11,5 +10,7 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
+layout_spectrum: 0.060378992930054665
 name: Artphil ICT
 title: Artphil Computers
+description: 'het adres voor computers, printers, netwerken en software'
